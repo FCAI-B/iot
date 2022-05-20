@@ -1,7 +1,7 @@
 # iot
 
 ```diff
-
+- The course content is ended with the RGB LED.
 ```
 
 <!-- The course content is ended with the RGB LED. -->
