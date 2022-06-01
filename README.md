@@ -3,7 +3,7 @@
 ```diff
 - Please write an answer to every question in the final exam, even if you are just 0.1% confident in your answer. 
 + If you see this message, please share it with all your colleagues. 
-+ I wish all of you success in the final exam, and I hope we reach a success rate of 100% in the course.
++ I wish all of you success in the final exam, and I hope we reach a success rate of 100% in the course, Insha Allah.
 ```
 
  The course content is ended with the RGB LED.
