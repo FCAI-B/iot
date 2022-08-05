@@ -1,4 +1,4 @@
-# iot
+# IoT
 
 ### Zoom Link
 https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09
