@@ -3,6 +3,9 @@
 ### Zoom Link
 https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09
 
+### Tinkercad Link
+https://www.tinkercad.com/joinclass/G3SUXX7PAST1
+
 <!--
 ```diff
 - Please write an answer to every question in the final exam, even if you are just 0.1% confident in your answer. 
