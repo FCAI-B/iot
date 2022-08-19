@@ -1,5 +1,11 @@
 # Electronics
 
+```diff
+- Next Sunday, we will have a normal lecture online at the below Zoom Link. 
+- The midterm will be postponed.
+```
+
+
 #### Zoom Link
 https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09
 
