@@ -1,7 +1,7 @@
 # Electronics
 
 ```diff
-- Next Sunday, we will have a normal lecture online at the below Zoom Link. 
+- Today, we will have a normal lecture online at the below Zoom Link. 
 - The midterm will be postponed.
 ```
 
