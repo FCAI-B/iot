@@ -7,6 +7,7 @@
 @@ There will be online questions you have to solve. @@
 + The questions include using what we did using the below Tinkercad Link. 
 - All who want to attend the Midterm exam should attend Tomorrow.
+@@ Finally, share this info with your colleagues. @@
 ```
 
 <!--
