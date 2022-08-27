@@ -1,5 +1,14 @@
 # Electronics
 
+
+```diff
++ Tomorrow, 28 Aug, we will work online at the below Zoom Link. 
+- Please attend using a laptop/PC (not a mobile).
+@@ There will be online questions you have to solve. @@
++ The questions include using what we did using the below Tinkercad Link. 
+- All who want to attend the Midterm exam should attend Tomorrow.
+```
+
 <!--
 ```diff
 - Today, we will have a normal lecture online at the below Zoom Link. 
