@@ -1,6 +1,8 @@
 # Electronics
 
+![RGB-LED](https://user-images.githubusercontent.com/92329466/187079619-c4810076-f642-4487-a9b5-ce779957fd58.png)
 
+<!--
 ```diff
 + Tomorrow, 28 Aug, we will work online at the below Zoom Link. 
 - Please attend using a laptop/PC (not a mobile).
@@ -9,6 +11,7 @@
 - All who want to attend the Midterm exam should attend Tomorrow.
 @@ Finally, share this info with your colleagues. @@
 ```
+-->
 
 <!--
 ```diff
