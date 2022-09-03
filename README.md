@@ -4,6 +4,7 @@
 + Tomorrow, 04 Sep, there will be no new lecture. 
 + I will be available at the below zoom link to answer any issue you have.
 + Feel free not to attend.
+@@ Finally, share this info with your colleagues. @@
 ```
 
 #### Zoom Link
