@@ -1,19 +1,24 @@
 # Electronics
 
+![RGB-LED](https://user-images.githubusercontent.com/92329466/187079619-c4810076-f642-4487-a9b5-ce779957fd58.png)
+
+#### Tinkercad Link
+https://www.tinkercad.com/joinclass/G3SUXX7PAST1
+
+#### Zoom Link
+https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09
+
+
+
+<!--
 ```diff
 + Tomorrow, 04 Sep, there will be no new lecture. 
 + I will be available at the below zoom link to answer any issue you have.
 + Feel free not to attend.
 - Finally, share this info with your colleagues. 
 ```
+-->
 
-#### Zoom Link
-https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09
-
-#### Tinkercad Link
-https://www.tinkercad.com/joinclass/G3SUXX7PAST1
-
-![RGB-LED](https://user-images.githubusercontent.com/92329466/187079619-c4810076-f642-4487-a9b5-ce779957fd58.png)
 
 <!--
 ```diff
@@ -25,6 +30,7 @@ https://www.tinkercad.com/joinclass/G3SUXX7PAST1
 @@ Finally, share this info with your colleagues. @@
 ```
 -->
+
 
 <!--
 ```diff
